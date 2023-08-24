@@ -1,3 +1,3 @@
 # Coun_Faces
 COUNT FACES USING TESNORFLOW PRETRAINED MODEL AND OPENCV
-![Image Alt Text](img.png)
+![](img.png)
